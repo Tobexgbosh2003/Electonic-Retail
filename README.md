@@ -1,6 +1,7 @@
 # Electonic-Retail
 This project provides a comprehensive analysis of sales and customer data for an electronic retail company. It focuses on key performance metrics, customer demographics, and sales trends to deliver actionable insights. The analysis includes a detailed exploration of customer details, product information, store performance, and transactional data.
-![image](https://github.com/user-attachments/assets/f137d64f-8bef-4d25-8485-7d2c9c8b58ac)
+![image](https://github.com/user-attachments/assets/13ee9446-f95f-4819-930d-e13d0af002a3)
+
 # Introduction 
 The objective of this project is to provide a clear, accurate, and comprehensive analysis of sales, customer demographics, and store performance within the electronic retail industry. This analysis offers stakeholders valuable insights into key metrics, trends, and performance indicators, fostering data-driven decision-making and strategic planning.
 
