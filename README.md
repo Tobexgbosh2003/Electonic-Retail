@@ -37,3 +37,18 @@ Are there specific customer groups or product lines requiring strategic focus?
 # Data Source 
 The dataset used for this project was sourced from Maven Analytics, as part of their training resources, and is not based on a real company's data. It serves as a practice dataset for developing and showcasing data analysis skills.
 # Skills and Concepts Demonstrated
+Data Transformation and Cleaning
+
+Used Power Query Editor to clean and transform raw data for analysis.
+Calculated Columns and Measures
+
+Created calculated columns for metrics such as sales and profit to support detailed analysis.
+DAX Calculations
+
+Developed general DAX measures for dynamic and advanced calculations.
+Dashboard Design
+
+Designed an interactive dashboard to provide a cohesive view of key performance indicators (KPIs).
+Data Visualization
+
+Leveraged Power BI’s visualization tools to create insightful charts and graphs, enhancing data storytelling.
