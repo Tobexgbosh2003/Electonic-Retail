@@ -57,3 +57,7 @@ Designed an interactive dashboard to provide a cohesive view of key performance 
 Data Visualization
 
 Leveraged Power BI’s visualization tools to create insightful charts and graphs, enhancing data storytelling.
+# Data Transformation
+Changed all fields to the appropriate data types. Created new columns to calculate the month name, Year.
+![image](https://github.com/user-attachments/assets/367809e7-422f-4d58-9330-0d3901ebfb0e)
+
