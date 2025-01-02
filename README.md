@@ -60,4 +60,11 @@ Leveraged Power BI’s visualization tools to create insightful charts and graph
 # Data Transformation
 Changed all fields to the appropriate data types. Created new columns to calculate the month name, Year.
 ![image](https://github.com/user-attachments/assets/367809e7-422f-4d58-9330-0d3901ebfb0e)
+# Data Visualization
+This dashboard provides a comprehensive analysis of electronic retail sales, uncovering valuable insights and identifying trends across customer demographics, product categories, and store performance. It highlights opportunities to optimize sales and revenue by focusing on high-performing products, key customer segments, and peak sales periods.
+
+The visualizations are designed to provide actionable recommendations for strategic decision-making, helping stakeholders make informed choices to drive growth and profitability.
+![image](https://github.com/user-attachments/assets/d8f934c5-2799-43b5-be65-fbdf2f2fbd4b)
+
+![image](https://github.com/user-attachments/assets/7e9253b8-3f26-4615-b8be-db0b639e2156)
 
