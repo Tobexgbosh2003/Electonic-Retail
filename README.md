@@ -48,6 +48,7 @@ Calculated Columns and Measures
 
 Created calculated columns for metrics such as sales and profit to support detailed analysis.
 DAX Calculations
+![image](https://github.com/user-attachments/assets/5e6658fd-36bc-4ef1-9ce6-709bf5124622)
 
 Developed general DAX measures for dynamic and advanced calculations.
 Dashboard Design
