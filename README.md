@@ -38,8 +38,12 @@ Are there specific customer groups or product lines requiring strategic focus?
 The dataset used for this project was sourced from Maven Analytics, as part of their training resources, and is not based on a real company's data. It serves as a practice dataset for developing and showcasing data analysis skills.
 # Skills and Concepts Demonstrated
 Data Transformation and Cleaning
-
+![image](https://github.com/user-attachments/assets/24f7b73f-4394-4cc9-b2b9-ceba9c3b9b51)
 Used Power Query Editor to clean and transform raw data for analysis.
+Data Modeling
+![image](https://github.com/user-attachments/assets/a17a6545-3f61-45dc-832d-1ef7878ef144)
+
+Created a robust data model by defining relationships between tables to enable seamless analysis and reporting.
 Calculated Columns and Measures
 
 Created calculated columns for metrics such as sales and profit to support detailed analysis.
